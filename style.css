@@ -25,6 +25,15 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    padding: 15px;
     color: var(--color-text);
     background: linear-gradient(#E9E9FF, #C8C7FF);
+}
+
+.container {
+    width: 900px;
+    padding: 32px;
+    border-radius: 23px;
+    background: var(--color-card);
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1);
 }

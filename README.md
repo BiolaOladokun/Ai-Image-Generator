@@ -13,12 +13,13 @@ This is a simple, browser-based AI Image Generator that uses the Hugging Face In
 📥 Download generated images with a single click
 
 🚀 Getting Started
-1. Clone the Repository
+1. Clone the Repository in cmd
    
 ~git clone https://github.com/BiolaOladokun/ai-image-generator.git
 
 ~cd ai-image-generator
-3. Insert Your Hugging Face API Key
+
+2. Insert Your Hugging Face API Key
 To use the image generation feature, you'll need a Hugging Face API key. You can get one for free from:
 
 🔗 https://huggingface.co/settings/tokens

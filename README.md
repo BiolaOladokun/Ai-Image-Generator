@@ -39,6 +39,7 @@ Simply open the index.html file in your browser to start using the app.
 - A dragon sleeping on gold coins in a crystal cave
 
 🛠️ Tech Stack
+
 HTML / CSS / JavaScript
 
 Hugging Face Inference API
